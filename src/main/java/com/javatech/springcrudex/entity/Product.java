@@ -23,4 +23,6 @@ public class Product {
     private String name;
     private int quantity;
     private double price;
+
+    //learning crud
 }
